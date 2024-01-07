@@ -111,7 +111,8 @@ df_final['target'] = y
 
 # ========================================================================================================================================================================================
 
-# STREAMLIT
+# STREAMLIT 
+# Link Cloud Deployment : https://capstone-project-heart-disease-devikartika.streamlit.app/
 st.set_page_config(
   page_title = "Hungarian Heart Disease",
   page_icon = ":heart:"
